@@ -35,4 +35,4 @@ export const GBP_ADDRESS_LINES = [
 ];
 
 // Exact Google Maps link specified
-export const MAPS_URL = "https://www.google.com/maps/search/?api=1&query=Kartik%20Family%20Resturant%20%26%20Bar%2C%20Roadpali%2C%20Kalamboli%2C%20Maharashtra%20410218";
+export const MAPS_URL = "https://maps.app.goo.gl/61QsxQCLUdW8Va2dA";
