@@ -1,0 +1,6 @@
+{
+  "name": "Kartik's Family Restaurant & Bar - Digital Menu",
+  "description": "Official mobile-first digital QR menu card for Kartik's Family Restaurant & Bar, Indrayani Garden, Sector 16, Roadpali, Kalamboli - 410218.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
