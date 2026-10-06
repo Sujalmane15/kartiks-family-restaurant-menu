@@ -4,7 +4,7 @@
  * If MENU_URL is empty, the application dynamically resolves the current page URL.
  */
 
-export const MENU_URL = "";
+export const MENU_URL = "https://kartiks-family-restaurant-menu.vercel.app/";
 
 export const RESTAURANT_NAME = "Kartik's Family Restaurant & Bar";
 export const SUBTITLE = "Digital Menu";
